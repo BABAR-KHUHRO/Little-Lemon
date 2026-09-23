@@ -78,12 +78,6 @@ The capstone course brings together concepts from the Meta Front-End Developer p
 **Course:**
 [Meta – Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone)
 
-## Repository
-
-The complete source code for this project is available on GitHub:
-
-**[GitHub – Little Lemon](https://github.com/BABAR-KHUHRO/Little-Lemon)**
-
 ## Purpose
 
 This project is part of my front-end development portfolio and demonstrates my practical experience building React-based web applications while applying concepts learned through the Meta Front-End Developer program.
